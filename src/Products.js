@@ -61,7 +61,7 @@ function Products() {
                     id="123587"
                     title="FJÄLLBERGET"
                     price={169}
-                    rating={3}
+                    rating={4}
                     image="https://www.ikea.com/nl/en/images/products/fjaellberget-conference-chair-with-castors-white-stained-oak-veneer-gunnared-beige__0815078_PE772749_S5.JPG?f=xxs"
                 />
                 
