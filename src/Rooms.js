@@ -35,7 +35,7 @@ function Rooms() {
                     id="1212334"
                     title="BINGSTA"
                     price={1290}
-                    rating={5}
+                    rating={4}
                     image="https://www.ikea.com/nl/en/images/products/bingsta-armchair__0761760_PE751428_S5.JPG?f=xxs"
                 />
                 
@@ -43,7 +43,7 @@ function Rooms() {
                     id="2423554"
                     title="SÖDERHAMN"
                     price={4790}
-                    rating={5}
+                    rating={3}
                     image="https://www.ikea.com/nl/en/images/products/soederhamn-4-seat-sofa-with-chaise-longue-and-open-end-samsta-orange__0802720_PE768564_S5.JPG?f=xxs"
                  />
                 <Product 
